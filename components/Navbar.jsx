@@ -27,9 +27,9 @@ export default function Navbar() {
         <div className="flex items-center gap-4">
           <a
             href="tel:+919242404198"
-            className="bg-accent hover:bg-accent-dark text-white font-semibold text-sm px-5 py-2.5 rounded-lg transition-colors"
+            className="hidden md:inline-block bg-accent hover:bg-accent-dark text-white font-semibold text-sm px-5 py-2.5 rounded-lg transition-colors"
           >
-            Contact
+            Call Now
           </a>
 
           {/* Mobile menu button */}
