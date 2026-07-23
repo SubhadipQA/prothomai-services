@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Prothom Analytica
+
+Website & Digital Growth Services for Local Shops & Small Businesses.
+
+## About
+
+Prothom Analytica helps local shops and small businesses establish their online presence with affordable website building, Google ranking, social media setup, and content services.
+
+## Tech Stack
+
+- **Framework:** Next.js 16
+- **Styling:** Tailwind CSS 4
+- **Language:** JavaScript (React)
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the site.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+├── app/
+│   ├── layout.js       # Root layout with fonts
+│   ├── page.js         # Home page
+│   └── globals.css     # Global styles + Tailwind
+├── components/
+│   ├── Navbar.jsx      # Navigation with mobile menu
+│   ├── Hero.jsx        # Hero section with plan card
+│   ├── Problem.jsx     # Problem/stats section
+│   ├── WhyProthom.jsx  # Mission statement
+│   ├── Services.jsx    # Services grid
+│   ├── Plans.jsx       # Pricing plans
+│   ├── AddOns.jsx      # Add-on services
+│   ├── Process.jsx     # How it works
+│   ├── Contact.jsx     # CTA section
+│   └── Footer.jsx      # Footer
+└── public/
+    └── images/         # Static images
+```
 
-## Learn More
+## Plans
 
-To learn more about Next.js, take a look at the following resources:
+| Plan | Price | Description |
+|------|-------|-------------|
+| Starter | ₹4,999 | Single-page website + Google Business |
+| Growth | ₹9,999 | Multi-page site + SEO + Social media |
+| Pro Business | ₹17,999 | Full e-commerce + Payment gateway |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📞 **+91 92424 04198**
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built with ❤️ by Prothom Analytica
