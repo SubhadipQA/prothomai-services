@@ -10,6 +10,9 @@ const jakarta = Plus_Jakarta_Sans({
 export const metadata = {
   title: 'Prothom Analytica — Websites & Digital Growth for Local Businesses',
   description: 'Basic, Premium & Advanced website plans for local shops, retailers and small businesses to get online, rank on Google, and grow.',
+  icons: {
+    icon: '/images/logo-icon.svg',
+  },
 };
 
 export default function RootLayout({ children }) {
