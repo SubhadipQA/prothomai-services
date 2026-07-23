@@ -29,7 +29,7 @@ export default function Navbar() {
             href="tel:+919242404198"
             className="bg-accent hover:bg-accent-dark text-white font-semibold text-sm px-5 py-2.5 rounded-lg transition-colors"
           >
-            Call Now
+            Contact
           </a>
 
           {/* Mobile menu button */}
