@@ -1,4 +1,4 @@
-# Prothom Analytica
+# PAI Services
 
 Website & Digital Growth Services for Local Shops & Small Businesses.
 
@@ -56,13 +56,13 @@ Open [http://localhost:3000](http://localhost:3000) to view the site.
 
 | Plan | Price | Description |
 |------|-------|-------------|
-| Starter | ₹4,999 | Single-page website + Google Business |
-| Growth | ₹9,999 | Multi-page site + SEO + Social media |
-| Pro Business | ₹17,999 | Full e-commerce + Payment gateway |
+| Starter | ₹XXXX | Single-page website + Google Business |
+| Growth | ₹XXXX | Multi-page site + SEO + Social media |
+| Pro Business | ₹XXXXX | Full e-commerce + Payment gateway |
 
 ## Contact
 
-📞 **+91 92424 04198**
+📞 **+XXXXXXXXXXX**
 
 ---
 
